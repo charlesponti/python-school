@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+name = "root"
+version = "0.0.0"
+authors = ["Charles Ponti <cj@ponti.io>"]
+description = "Python Bootcamp"
+
+[tool.poetry.dependencies]
+python = "==3.6.9"
+click = "*"
+pandas = "*"
+pytest = "*"
+typing = "*"

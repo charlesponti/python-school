@@ -17,8 +17,7 @@ banks = [
 cash_accounts = ("checking", "savings")
 investment_accounts = ("stock", "bond", "mutual_fund")
 credit_accounts = ("credit_card", "student_loan", "mortgage")
-print(max(credit_accounts))
-
+print("The largest credit account is", max(credit_accounts), "\n")
 
 #------------------------------------------------------------------
 
